@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"self"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "week2/week2.py",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Windows",
+				"name": "print \"Hello Master, I await your next command.\""
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 319.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/1_bar_chart.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/4_tooltips.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/2_loading_transition.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/3_loading_transition_delay.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/5_framing.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/module1/5_module.css",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/namesbystate/MI.TXT",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/d3.js",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/data/betterlifeindex/betterlifeindex.csv",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/source/index.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/server.js",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/index.html",
+		"/C/Users/jsullivan/PhpstormProjects/IntD3/.bowerrc",
+		"/C/Users/jsullivan/PhpstormProjects/d3Ang/server.js",
+		"/C/Users/jsullivan/Downloads/NG Book/code/7_beginning-directives/js/wip.js",
+		"/C/Users/jsullivan/Downloads/NG Book/code/7_beginning-directives/js/angular.js",
+		"/C/Users/jsullivan/Downloads/NG Book/code/9_directives-explained/index.html",
+		"/C/Users/jsullivan/Downloads/NG Book/code/9_directives-explained/transclusion.html",
+		"/C/xampp/htdocs/angular-foundation/src/modal/docs/demo.js",
+		"/C/xampp/htdocs/angular-foundation/src/modal/docs/demo.html",
+		"/C/xampp/htdocs/angular-foundation/template/modal/backdrop.html",
+		"/C/xampp/htdocs/angular-foundation/src/modal/modal.js",
+		"/C/xampp/htdocs/angular-foundation/karma.conf.js",
+		"/C/xampp/htdocs/angular-foundation/Gruntfile.js",
+		"/C/xampp/htdocs/angular-foundation/template/modal/window.html",
+		"/C/Wagged35SvnBranches/frosteds/html/frostedflakes/content/sass/style.scss",
+		"/C/xampp/htdocs/Try Sass/sass/site.scss",
+		"/C/Users/jsullivan/Desktop/178_.txt",
+		"/C/Wagged35SvnBranches/US5583_removeInfluentialFromAuthor/DiscoveryHub/Webapps/FeedAdmin/Js/app/article/articleCitationComponent.js",
+		"/C/Wagged35Svn/Infrastructure/DeploymentPackages/release_20151013_emergency.json",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/dist/app/controllers/controllers.js",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/dist/app/controllers/zoomablesunburst.js",
+		"/C/Wagged35SvnBranches/US5583_removeInfluentialFromAuthor/DiscoveryHub/Webapps/FeedAdmin/Js/src/control/articleEntry.js",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/dist/app/partials/default.html",
+		"/C/Wagged35SvnBranches/US5583_removeInfluentialFromAuthor/DiscoveryHub/Webapps/FeedAdmin/Views/Shared/_RequireScriptPartial.cshtml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/jsullivan/Desktop/shit.json",
+		"/C/Wagged35SvnBranches/hosts - Shortcut.lnk",
+		"/C/Wagged35SvnBranches/Ang/Enterprise/nuget.config",
+		"/C/Wagged35SvnBranches/Ang/DiscoveryHub/Tests/Webapps/FeedAdmin/App.config",
+		"/C/Wagged35SvnBranches/Ang/DiscoveryHub/Webapps/FeedAdmin/Areas/Admin/Views/UserEntity/Index.cshtml",
+		"/C/Wagged35SvnBranches/Ang/DiscoveryHub/Webapps/FeedAdmin/Areas/Admin/Views/UserEntity/IndexMVC.cshtml",
+		"/C/Wagged35SvnBranches/Ang/DiscoveryHub/Webapps/FeedAdmin/Areas/Admin/Views/Shared/_LayoutNg.cshtml",
+		"/C/Wagged35SvnBranches/Ang/DiscoveryHub/Webapps/FeedAdmin/Js/src/app.js",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/data/20150915.json",
+		"/C/Wagged35SvnBranches/dunno/can-refactor/Areas/Admin/Views/_ViewStart.cshtml",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/app/app.js",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/server.js",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/index.html",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/app/services/customersService.js",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/app/controllers/controllers.js",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/CustomerManagementApp.html",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/3_Adding_a_Simple_Controller.html",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/1_Data_binding_basics.html",
+		"/C/Users/jsullivan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/GAP5A1ZP/entity.json",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/2_Looping_with_ng-repeat.html",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/WEVisualizeWebApp.csproj",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/app/directives/animatedView.js",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/7_Adding_Module_Configuration_and_Routing.html",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/7_Partial2.html",
+		"/C/Users/jsullivan/Downloads/AngularJSDemos/AngularJSDemos/DemoPartials/7_Partial1.html",
+		"/C/Wagged35SvnBranches/frosteds/html/frostedflakes/content/sass/_base.scss",
+		"/C/Wagged35SvnBranches/frosteds/html/frostedflakes/content/sass/_shared.scss",
+		"/C/xampp/htdocs/d3-tutorial/babyname/voyager.js",
+		"/C/Users/jsullivan/Source/Repos/WEVisualize/WEVisualizeWebApp/WEVisualizeWebApp/WEVisualizeWebApp.csproj.user",
+		"/C/Wagged35SvnBranches/d3-poc/d3-proof/Views/zoom/Index.cshtml",
+		"/C/Wagged35SvnBranches/d3-poc/d3-proof/Views/Shared/_header.cshtml",
+		"/C/Wagged35SvnBranches/d3-poc/d3-proof/Views/Shared/_Layout.cshtml",
+		"/C/xampp/htdocs/d3-tutorial/zoomable-sunburst/main.js",
+		"/C/xampp/htdocs/d3-tutorial/data/flare.json",
+		"/C/Wagged35SvnBranches/latest.csv",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/d3-tutorial/zoomable-sunburst/flare.json",
+		"/C/Users/jsullivan/Desktop/bgc.js",
+		"/C/Users/jsullivan/Desktop/kfr.js",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/src/tables.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/bower_components/bootstrap/less/input-groups.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/src/input-groups.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/dhp-theme/icon-style.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/src/icon-style.less",
+		"/C/xampp/htdocs/d3-tutorial/data/visit-sequences.csv",
+		"/C/Users/jsullivan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jsullivan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/src/badges.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/bower_components/bootstrap/less/badges.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/dhp-theme/article.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/bower_components/bootstrap/less/alerts.less",
+		"/C/Wagged35SvnBranches/US5460/DiscoveryHub/Webapps/FeedAdmin/css/src/alerts.less",
+		"/C/Users/jsullivan/AppData/Roaming/Sublime Text 2/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/C/Wagged35SvnBranches/US5232-AutomatedTestingSpike/Tests/SeleniumTests/python/dhp_smoketest.py",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/12187954.json",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/12187954-response.json",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/articleModel.json",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/segments.json",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/FeedAdmin/.idea/workspace.xml",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/articleModel2.json",
+		"/C/Wagged35SvnBranches/features/US5303/DiscoveryHub/Webapps/Mocks/getFeedItemsResult.html",
+		"/C/Users/jsullivan/Desktop/style.css",
+		"/C/Users/jsullivan/Desktop/demo.css",
+		"/C/Users/jsullivan/Desktop/selection.json",
+		"/C/Wagged35Svn/DiscoveryHub/Webapps/FeedAdmin/Js/admin/global/customEntities/adminCustomEntities.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/angularjs.svn001.tmp/ui-bootstrap-tpls-0.11.2.min.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/angularjs.svn000.tmp/ui-bootstrap-tpls-0.11.2.min.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/ui-bootstrap-tpls-0.11.2.min.js-revHEAD.svn000.tmp.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/app.js-revHEAD.svn000.tmp.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/app.js-revHEAD.svn001.tmp.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/app.js-revHEAD.svn002.tmp.js",
+		"/C/Users/jsullivan/AppData/Local/Temp/route.svn000.tmp/adminCustomEntities.js",
+		"/C/Wagged35SvnBranches/can-refactor/Js/src/app/admin/customEntities/views/entity-form.mustache",
+		"/C/Wagged35SvnBranches/can-refactor/Js/src/app/admin/customEntities/views/app-template.mustache",
+		"/C/Wagged35SvnBranches/can-refactor/Js/src/app/admin/customEntities/views/entity-table.mustache",
+		"/C/Wagged35SvnBranches/can-refactor/Areas/Admin/Views/UserEntity/Index.cshtml",
+		"/C/Wagged35SvnBranches/can-refactor/Js/src/app/admin/customEntities/adminCustomEntities.js",
+		"/C/Wagged35SvnBranches/can-refactor/Views/Shared/_RequireScriptPartial.cshtml",
+		"/C/Wagged35SvnBranches/can-refactor/Js/src/app.js",
+		"/C/Wagged35SvnBranches/features/US5305/DiscoveryHub/Webapps/FeedAdmin/Global.asax.cs",
+		"/C/Wagged35Svn/DiscoveryHub/Webapps/FeedAdmin/Views/Shared/_RequireScriptPartial.cshtml",
+		"/C/Wagged35SvnBranches/SeleniumTests/python/DHP/commonTasks/__init__.py",
+		"/C/Wagged35Svn/DiscoveryHub/Webapps/FeedAdmin/bower.json",
+		"/C/Wagged35Svn/DiscoveryHub/Webapps/FeedAdmin/bower_components/moment/min/moment-with-locales.js",
+		"/C/Wagged35SvnBranches/refactor/DiscoveryHub/Webapps/FeedAdmin/Wagged.DiscoveryHub.Webapps.FeedAdmin.csproj",
+		"/C/Wagged35SvnBranches/fewer modals/Security/Wagged.DiscoveryHub.Security.csproj",
+		"/C/Wagged35SvnBranches/refactor/DiscoveryHub/Webapps/FeedAdmin/packages.config",
+		"/C/Wagged35SvnBranches/fewer modals/Tests/BusinessLogic/Wagged.DiscoveryHub.Tests.BusinessLogic.csproj",
+		"/C/Wagged35SvnBranches/fewer modals/Tests/Webapps/FeedAdmin/Wagged.DiscoveryHub.Tests.Webapps.FeedAdmin.csproj",
+		"/C/Wagged35SvnBranches/fewer modals/BusinessLogic/Wagged.DiscoveryHub.BusinessLogic.csproj",
+		"/C/Wagged35SvnBranches/fewer modals/BusinessLogic/Fakes/Wagged.DiscoveryHub.BusinessLogic.Fakes.csproj"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\angular-foundation",
+			"C:\\xampp\\htdocs\\angular-foundation\\src",
+			"C:\\Wagged35SvnBranches\\32417\\Webapps\\FeedAdmin",
+			"FeedAdmin",
+			"C:\\Users\\jsullivan\\Downloads\\AngularJSDemos\\AngularJSDemos",
+			"C:\\Users\\jsullivan\\Source\\Repos\\WEVisualize\\WEVisualizeWebApp\\WEVisualizeWebApp\\src\\components\\foundation\\scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"')",
+			"gunnar",
+			"nathaniel",
+			"phoebe",
+			"jeremy",
+			"title",
+			"reveal",
+			"a",
+			"reveal",
+			"articleEntry",
+			"samplesController",
+			"$font-family-sans-serif",
+			"$body-font-family",
+			"80",
+			"port",
+			"ssl",
+			"local",
+			"<VirtualHost *:80>\n    ServerAdmin webmaster@dummy-host2.example.com\n    DocumentRoot \"C:/xampp/htdocs/try sass/public/\"\n    ServerName try-sass.local\n</VirtualHost>",
+			"\\",
+			"EntryId",
+			"Entry",
+			"[{",
+			"[",
+			"\n",
+			"\\t ",
+			" (?=[A-Z])",
+			"\\s(?<=\\d)",
+			"-",
+			"\\d ",
+			":",
+			"admin",
+			"slow",
+			"dete",
+			"plu",
+			"slow",
+			"sloww",
+			"add",
+			"local",
+			"..\\..\\..\\Wagged35Svn\\",
+			"..\\..\\..\\Wagged35Svn",
+			"Waggged35Svn",
+			"logging",
+			"..\\..\\..\\..\\",
+			">..\\..\\..\\..\\",
+			"..\\..\\..\\..\\",
+			"..\\..\\..\\..\\..\\",
+			"..\\..\\..\\..\\",
+			"..\\..\\..\\",
+			"..\\..\\",
+			"Dependencies",
+			"..\\..\\..\\..\\",
+			"..\\Wagged35Svn",
+			"fakes",
+			"..\\..\\..\\",
+			"=\"..\\..\\..\\..\\",
+			"..\\..\\..\\",
+			"..\\..\\..",
+			"..\\..",
+			"..\\..\\..",
+			"..",
+			";",
+			"()",
+			"get",
+			"_getcwd",
+			"getcwd",
+			"\"):\n",
+			"trim_automatic_white_space",
+			", e",
+			"is_element_present",
+			"draw",
+			"overriden",
+			"owner",
+			"whites",
+			"webdriver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t",
+			"",
+			" ",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "week2/week2.py",
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"auto_name": "print \"Hello Master, I await your next command.\"",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 284.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
